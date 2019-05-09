@@ -1,0 +1,22 @@
+{
+  "name": "alfredo-ci",
+  "version": "1.0.0",
+  "description": "CI tool based on Node.js and Express named Alfredo in honor of a TV advertising of toilet paper in Brazil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idemax/alfredo-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idemax/alfredo-ci/issues"
+  },
+  "homepage": "https://github.com/idemax/alfredo-ci#readme",
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
+}
